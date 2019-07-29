@@ -9,4 +9,4 @@ https://arxiv.org/abs/0809.4460
 
 
 
-
+https://www.semanticscholar.org/paper/Self-Consistent-Transport-Magnetic-Simulation-and-Mojumder-Augustine/9d3f0a0897e4869a42d867fa9232cbfcd1863ac0
