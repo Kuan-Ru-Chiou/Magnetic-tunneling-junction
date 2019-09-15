@@ -1,7 +1,7 @@
 # Magnetic-tunneling-junction
 
 
-## Overview of spin-transport system using non-equilibrium Green function method :
+*    Overview of spin-transport system using non-equilibrium Green function method :
 
 ![kk](https://github.com/Kuan-Ru-Chiou/Pic/blob/master/PHD%E5%8F%A3%E8%A9%A6---presentation%20-%20%E8%A4%87%E8%A3%BD.jpg) 
 
