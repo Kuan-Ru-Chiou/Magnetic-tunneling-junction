@@ -50,7 +50,7 @@ https://www.semanticscholar.org/paper/Self-Consistent-Transport-Magnetic-Simulat
 
 ## 4. Magnetic-Tunneling-Junction-momentum-phase-relaxation is used to simulate elastic phonon interaction with electron in the channel. The algorithm is implemented based on this paper. https://journals.aps.org/prb/abstract/10.1103/PhysRevB.75.081301
 
-### Numerical results
+### Numerical results for ballistic transport:
 
 
 
