@@ -44,6 +44,17 @@ https://www.worldscientific.com/doi/10.1142/S2010324719500036
 
 Recent study in Ref. 81 showed that the spin-transfer torque (STT) is enhanced by the asymmetry in a graphene lateral spin valve structure. This lateral structure or geometry can be modeled by a four-terminal magnetic tunneling junction (MTJ) as opposite to the conventional two-terminal MTJ. In this paper, using the non-equilibrium Green’s function formalism, we compare the anti-damping components of the STT in a similar non-conventional lateral one dimensional MTJ with that in the conventional MTJ. We find that the lateral geometry renders enhanced anti-damping torques compared with the conventional one, provided that the barrier energy, the scattering length, and the magnetization angle are in a certain parameter region. We also identify this parameter region in the presence of dephasing. The enhancement of the anti-damping torques declines when the scattering region is longer. For the four-terminal MTJ of larger scattering length, the dephasing can expedite the anti-damping torque.
 
+### Numerical results :
+
+![kk](https://github.com/Kuan-Ru-Chiou/Pic/blob/master/343434.jpg) 
+
+
+![kk](https://github.com/Kuan-Ru-Chiou/Pic/blob/master/232323.jpg) 
+
+
+
+
+
 
 
 
