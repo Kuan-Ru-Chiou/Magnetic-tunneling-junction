@@ -75,6 +75,9 @@ Recent study in Ref. 81 showed that the spin-transfer torque (STT) is enhanced b
 
 
 
+
+
+
 ## 2. The spin-relaxation dephasing model is implemented in the magnetic tunneling junction using the algorithm proposed by Supriyo Datta paper.
 https://arxiv.org/abs/0809.4460
 
