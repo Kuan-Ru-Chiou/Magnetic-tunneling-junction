@@ -19,14 +19,17 @@
 
 ![kk](https://github.com/Kuan-Ru-Chiou/Pic/blob/master/23233.jpg) 
 
-*    Non-equilibrium Green function:
+*    Non-equilibrium Green function :
 
 ![kk](https://github.com/Kuan-Ru-Chiou/Pic/blob/master/433%20-%20%E8%A4%87%E8%A3%BD.jpg) 
 
+*    Self-Consistent loop :
 
+![kk](https://github.com/Kuan-Ru-Chiou/Pic/blob/master/ggr%20%E8%A4%87%E8%A3%BD.jpg) 
 
+*    Simulation Flow Chart :
 
-
+![kk](https://github.com/Kuan-Ru-Chiou/Pic/blob/master/fgfedrgr.jpg) 
 
 
 
