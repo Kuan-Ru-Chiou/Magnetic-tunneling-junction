@@ -52,8 +52,9 @@ Recent study in Ref. 81 showed that the spin-transfer torque (STT) is enhanced b
 ![kk](https://github.com/Kuan-Ru-Chiou/Pic/blob/master/232323.jpg) 
 
 
+### Summary :
 
-
+![kk](https://github.com/Kuan-Ru-Chiou/Pic/blob/master/fdfv.jpg) 
 
 
 
