@@ -1,8 +1,48 @@
 # Magnetic-tunneling-junction
 
 
+## Overview of spin-transport system using non-equilibrium Green function method :
+
+![kk](https://github.com/Kuan-Ru-Chiou/Pic/blob/master/PHD%E5%8F%A3%E8%A9%A6---presentation%20-%20%E8%A4%87%E8%A3%BD.jpg) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 1. Spin-Transfer-Torque module is finished during my phd degree and published on journal.
 https://www.worldscientific.com/doi/10.1142/S2010324719500036
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
