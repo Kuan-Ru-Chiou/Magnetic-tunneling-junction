@@ -52,6 +52,11 @@ Recent study in Ref. 81 showed that the spin-transfer torque (STT) is enhanced b
 ![kk](https://github.com/Kuan-Ru-Chiou/Pic/blob/master/232323.jpg) 
 
 
+![kk](https://github.com/Kuan-Ru-Chiou/Pic/blob/master/32211.jpg) 
+
+Fig. 1.3 anti damping and field like torque curves versus voltage plots. The parameters are same to the chapter 8. Here, we select Nox = 4 layer and UI = 3.92 eV for illustrating the bias dependence of the torques for 2- and 4- terminal set up. 
+
+
 ### Summary :
 
 ![kk](https://github.com/Kuan-Ru-Chiou/Pic/blob/master/fdfv.jpg) 
