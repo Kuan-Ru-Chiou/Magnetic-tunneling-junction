@@ -50,11 +50,13 @@ https://www.semanticscholar.org/paper/Self-Consistent-Transport-Magnetic-Simulat
 
 ## 4. Magnetic-Tunneling-Junction-momentum-phase-relaxation is used to simulate elastic phonon interaction with electron in the channel. The algorithm is implemented based on this paper. https://journals.aps.org/prb/abstract/10.1103/PhysRevB.75.081301
 
+### Numerical results
+
 
 
 ![kk](https://github.com/Kuan-Ru-Chiou/Pic/blob/master/1111.jpg) 
 
-Fig. 1 Equilibrium spin resolved energy band profiles for parallel and anti-parallel Fe/MgO/Fe configurations. Green dash line: fermi-energy, red dash line: up-channel and blue dash line: dn-channel. 
+Fig. 4.1 Equilibrium spin resolved energy band profiles for parallel and anti-parallel Fe/MgO/Fe configurations. Green dash line: fermi-energy, red dash line: up-channel and blue dash line: dn-channel. 
 
 
 
@@ -65,4 +67,4 @@ Fig. 1 Equilibrium spin resolved energy band profiles for parallel and anti-para
 
 ![kk](https://github.com/Kuan-Ru-Chiou/Pic/blob/master/11211.jpg) 
 
-Fig. 2 NEGF simulation of TMR vs. voltage. The parameters used for this calculation are Ef = 2.25 eV, mup = mdn = 0.73 m0 in FM layer, mup = mdn = 0.32 m0 times the 0.2, 0.4, 0.6 0.8 and1 in oxide layer, LFM = 2 layers for left contact and LFM = 2 layers for right contact, Lox = 4, 6, 7, and 8 layers and m0 is the free electron mass.
+Fig. 4.2 NEGF simulation of TMR vs. voltage. The parameters used for this calculation are Ef = 2.25 eV, mup = mdn = 0.73 m0 in FM layer, mup = mdn = 0.32 m0 times the 0.2, 0.4, 0.6 0.8 and1 in oxide layer, LFM = 2 layers for left contact and LFM = 2 layers for right contact, Lox = 4, 6, 7, and 8 layers and m0 is the free electron mass.
